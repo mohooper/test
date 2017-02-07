@@ -2,7 +2,7 @@ package jar;
 
 public class TT {
 	
-	public static String st="aaaa";
+	public static String st="aabbaa";
 	
 	public static void main(String[] args) {
 		String s1="";
